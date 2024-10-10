@@ -1,6 +1,3 @@
-# kaiso-profile
-My profile
-
 <h1 align="center">Hi 👋, I'm Kaiso</h1>
 <h3 align="center">Hi, I'm passionate about development and I'm new to it !</h3>
 
